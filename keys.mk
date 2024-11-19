@@ -54,5 +54,5 @@ PRODUCT_CERTIFICATE_OVERRIDES := \
     com.google.pixel.vibrator.hal:com.google.pixel.vibrator.hal.certificate.override \
     com.qorvo.uwb:com.qorvo.uwb.certificate.override
 
-PRODUCT_DEFAULT_DEV_CERTIFICATE := vendor/lineage-priv/keys/releasekey
+PRODUCT_DEFAULT_DEV_CERTIFICATE := vendor/lineage-priv/keys/testkey
 PRODUCT_EXTRA_RECOVERY_KEYS :=
